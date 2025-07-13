@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Halim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonHalim&show_icons=true&theme=github_dark_dimmed)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonHalim&layout=donut)](https://github.com/KwonHalim/github-readme-stats)
 
 <!--
 **KwonHalim/KwonHalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
